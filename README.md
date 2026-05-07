@@ -81,3 +81,4 @@ Me chamo Ricardo Moraes, tenho 44 anos e sou natural de São Paulo. Atualmente, 
   />
 
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Moraesricardo123&show_icons=true"/>
