@@ -62,16 +62,11 @@ Me chamo Ricardo Moraes, tenho 44 anos e sou natural de São Paulo. Atualmente, 
 <br/>
 <br/>
 
+
 ## 📊 Estatísticas
 
-<p align="left">
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Moraesricardo123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moraesricardo123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moraesricardo123&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moraesricardo123&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
