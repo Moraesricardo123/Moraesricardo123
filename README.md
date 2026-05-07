@@ -65,6 +65,10 @@ Me chamo Ricardo Moraes, tenho 44 anos e sou natural de São Paulo. Atualmente, 
 
 ## 📊 Estatísticas
 
+# Ricardo Pinto
+
+## 📊 Estatísticas
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moraesricardo123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   
