@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Ricardon Moraes, tenho 44 anos e sou natural de São Paulo. Atualmente, estou estudando HTML5 CSS3 com o Curso em video do prof Gustavo Guanabara. Sou iniciante na área de programação e estou gostando muito do meu desenvolvimento
+Me chamo Ricardo Moraes, tenho 44 anos e sou natural de São Paulo. Atualmente, estou estudando HTML5 CSS3 com o Curso em video do prof Gustavo Guanabara. Sou iniciante na área de programação e estou gostando muito do meu desenvolvimento
 
 
 
@@ -58,6 +58,14 @@ Me chamo Ricardon Moraes, tenho 44 anos e sou natural de São Paulo. Atualmente,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
