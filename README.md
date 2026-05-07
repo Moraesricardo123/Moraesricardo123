@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Ricardo Moraes, tenho 44 anos e sou natural de São Paulo. Atualmente, estou estudando HTML5 CSS3 com o Curso em video do prof Gustavo Guanabara. Sou iniciante na área de programação e estou gostando muito do meu desenvolvimento
+Me chamo Ricardo Moraes, tenho 44 anos e sou natural de São Paulo. Atualmente, estou estudando HTML5 CSS3 com o Curso em video do prof Gustavo Guanabara. Sou iniciante na área de programação e estou gostando muito do meu desenvolvimento. Comecei aprendendo SQL na Udemy ,depois Javascript com o Gustavo Guanabara e comecei Python na Udemy e pretendo estudar também no Curso em vídeo
 
 
 
