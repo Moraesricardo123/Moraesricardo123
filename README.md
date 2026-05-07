@@ -62,7 +62,7 @@ Me chamo Ricardo Moraes, tenho 44 anos e sou natural de São Paulo. Atualmente, 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p align="left">
   <img 
